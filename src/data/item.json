@@ -1,0 +1,662 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "color": "Mist Gray/Whitestone",
+      "category": "smartwatches",
+      "product_title": "Forerunner® 165 Music",
+      "name": "Forerunner® 165 Series",
+      "image": "165green.webp",
+      "text": "You’re a runner who has moved beyond just running. You’re ready to train brilliantly. With a bright AMOLED display, training metrics, wellness insights, and optional music your goals are about to be met.",
+      "price": 249.99,
+      "status": "NEW",
+      "folder_name": "forerunner165",
+      "carousel_images": [
+        "165.webp",
+        "165-1.webp",
+        "165-2.webp",
+        "165-3.webp",
+        "165-4.webp",
+        "165-5.webp",
+        "165-6.webp"
+      ],
+      "banner_text": {
+        "title": "",
+        "text": "",
+        "banner_images": {
+          "main_banner": "",
+          "alt": "",
+          "adaptive_banner": ""
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannerforvideo-forerunner165.webp",
+        "video_url": "https://www.youtube.com/embed/IQS5QsafSKg?si=i0BnpAJybO-P32Uc"
+      },
+      "additional_images": {
+        "main_image": "",
+        "adaptive_image": ""
+      },
+      "watch_features": [
+        {
+          "image": "PACE, DISTANCE, HEART RATE.webp",
+          "title": "PACE, DISTANCE, HEART RATE",
+          "description": "This easy-to-use GPS running smartwatch provides the essential features you need to take your running to the next level — including GPS, pace, distance and wrist-based heart rate1."
+        },
+        {
+          "image": "DAILY SUGGESTED WORKOUTS.webp",
+          "title": "DAILY SUGGESTED WORKOUTS",
+          "description": "Get workouts made for you. They adapt after every run to match your performance and recovery as well as the races coming up in your Garmin Connect™ smartphone app calendar."
+        },
+        {
+          "image": "GARMIN COACH.webp",
+          "title": "GARMIN COACH",
+          "description": "Get free adaptive 5K, 10K and half-marathon training plans from expert coaches to help you take on a new challenge."
+        },
+        {
+          "image": "RACE ADAPTIVE TRAINING.webp",
+          "title": "RACE ADAPTIVE TRAINING",
+          "description": "Get ready for your race with training tips, personalized daily suggested workouts and completion time predictions based on race details you enter into Garmin Connect."
+        },
+        {
+          "image": "MORNING REPORT.webp",
+          "title": "MORNING REPORT",
+          "description": "Receive an overview of your sleep1 and training outlook as soon as you wake up — alongside HRV status and weather. You can even customize your report to show you what you want to see."
+        },
+        {
+          "image": "TRAINING EFFECT.webp",
+          "title": "TRAINING EFFECT",
+          "description": "With training effect, you can see how your workouts impact your fitness and understand the primary benefit from training runs and workouts."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "color": "Black",
+      "category": "smartwatches",
+      "product_title": "Enduro™ 3",
+      "name": "Enduro™ 3",
+      "image": "enduro2.webp",
+      "text": "You’re an ultra racer. You need a multisport GPS watch that can go to extremes — with solar charging, incredible GPS battery life and built-in mapping to help you stay ahead of the pack.",
+      "price": 899.99,
+      "status": "NEW",
+      "folder_name": "enduro3",
+      "carousel_images": [
+        "enduro3.webp",
+        "enduro3-1.webp",
+        "enduro3-2.webp",
+        "enduro3-3.webp",
+        "enduro3-4.webp",
+        "enduro3-5.webp",
+        "enduro3-6.webp",
+        "enduro3-7.webp",
+        "enduro3-8.webp",
+        "enduro3-9.webp",
+        "enduro3-10.webp",
+        "enduro3-11.webp"
+      ],
+      "banner_text": {
+        "title": "ENDURO™ 3",
+        "text": "THE ULTRAPERFORMANCE GPS SMARTWATCH",
+        "banner_images": {
+          "main_banner": "enduro3bannerinfo.jpg",
+          "alt": "ENDURO™ 3",
+          "adaptive_banner": "enduro3bannerinfo-adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannerforvideo-enduro3.webp",
+        "video_url": "https://www.youtube.com/embed/I2qdf0Gsqcc?si=3TRRugTgBJgVyBWj"
+      },
+      "additional_images": {
+        "main_image": "banner-enduro3.webp",
+        "adaptive_image": "banner-enduro3-adaptive.webp"
+      },
+      "watch_features": [
+        {
+          "image": "BUILT TO ENDURE.webp",
+          "title": "BUILT TO ENDURE",
+          "description": "Featuring a lightweight design of only 63 g, alongside a titanium bezel and scratch-resistant sapphire lens, you’ll be set to take on the toughest challenges with Enduro 3. An UltraFit nylon band provides long-distance comfort."
+        },
+        {
+          "image": "INCREDIBLE BATTERY LIFE.webp",
+          "title": "INCREDIBLE BATTERY LIFE",
+          "description": "Get up to 90 days of battery life in smartwatch mode2 or 320 hours in GPS mode with solar charging1 — all with an always-on display."
+        },
+        {
+          "image": "LED FLASHLIGHT.webp",
+          "title": "LED FLASHLIGHT",
+          "description": "Light up your adventures with a built-in LED flashlight. Its variable light intensities and a red safety light give greater awareness when training in the dark — while strobe mode can even match your running cadence."
+        },
+        {
+          "image": "READY TO HIT THE TRAILS.webp",
+          "title": "READY TO HIT THE TRAILS",
+          "description": "With trail-specific features such as trail run VO2 max, grade-adjusted pace and NextFork™ map guide, the Enduro 3 smartwatch is built to help you crush the toughest trail runs and races."
+        },
+        {
+          "image": "ENHANCED MAP NAVIGATION.webp",
+          "title": "ENHANCED MAP NAVIGATION",
+          "description": "This dynamic round-trip routing feature lets you enter how far you want to go and get suggested routes that will guide you back on time. You can also view terrain contours on preloaded TopoActive maps and access preloaded maps for golf courses and ski resorts around the world."
+        },
+        {
+          "image": "ADVANCED STRENGTH TRAINING.webp",
+          "title": "ADVANCED STRENGTH TRAINING",
+          "description": "Elevate your body’s performance with targeted strength training plans, real-time stamina tracking, specific workouts for various activity types and a full range of built-in sports apps tailored for ultrarunners, cyclists, hikers and more."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "color": "White",
+      "category": "smartwatches",
+      "product_title": "Forerunner® 55",
+      "name": "Forerunner® 55",
+      "image": "55.webp",
+      "text": "See yourself as a runner. Get the easy-to-use GPS running smartwatch that encourages running and healthy lifestyles.",
+      "price": 169.99,
+      "status": "Sale",
+      "folder_name": "forerunner55",
+      "carousel_images": [
+        "55.webp",
+        "55-1.webp",
+        "55-2.webp",
+        "55-3.webp",
+        "55-4.webp",
+        "55-5.webp",
+        "55-6.webp",
+        "55-7.webp",
+        "55-8.webp"
+      ],
+      "banner_text": {
+        "title": "",
+        "text": "More ways to track health and wellness.",
+        "banner_images": {
+          "main_banner": "bannerwithtext-forerunner55.webp",
+          "alt": "bannerwithtext-forerunner55",
+          "adaptive_banner": "bannerwithtext-forerunner55-adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannerforvideo-forerunner55.webp",
+        "video_url": "https://www.youtube.com/embed/qqqrOjkBRw8?si=RxDK3Osy6hmENCAb"
+      },
+      "additional_images": {
+        "main_image": "forerunner55.webp",
+        "adaptive_image": "forerunner55-adaptive.webp"
+      },
+      "watch_features": [
+        {
+          "image": "forerunner55-WRIST-BASED HEART RATE.webp",
+          "title": "BUILT-IN GPS",
+          "description": "Track where you run, and get accurate stats, including distance, pace and intervals."
+        },
+        {
+          "image": "forerunner55-GARMIN COACH.webp",
+          "title": "WRIST-BASED HEART RATE",
+          "description": "Get heart rate data along with alerts if your heart rate stays high while you’re at rest. Even gauge how hard your heart is working during activities."
+        },
+        {
+          "image": "forerunner55-DAILY SUGGESTED WORKOUTS.webp",
+          "title": "GARMIN COACH",
+          "description": "These adaptive training plans feature guidance from expert coaches and free training plans that adapt to you and your goals. Workouts sync right to your watch from the Garmin Connect™ app."
+        },
+        {
+          "image": "forerunner55-PACEPRO™ TECHNOLOGY.webp",
+          "title": "DAILY SUGGESTED WORKOUTS",
+          "description": "Get daily run recommendations of varying intensities based on your training history, fitness level, and recovery time."
+        },
+        {
+          "image": "forerunner55-FINISH TIME.webp",
+          "title": "PACEPRO™ TECHNOLOGY",
+          "description": "Offers GPS-based pace guidance for a selected course or distance in the Garmin Connect app, helping you tailor your efforts."
+        },
+        {
+          "image": "forerunner55-TRACK RUN.webp",
+          "title": "FINISH TIME",
+          "description": "Select a distance for your run and see your estimated finish time on a data screen."
+        },
+        {
+          "image": "forerunner55-CADENCE ALERTS.webp",
+          "title": "TRACK RUN",
+          "description": "Use the built-in track run activity to record accurate lap distances and see your distances in meters."
+        },
+        {
+          "image": "forerunner55-gps.webp",
+          "title": "CADENCE ALERTS",
+          "description": "Improve your running form by using cadence alerts to know when you've gone outside your target range."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "color": "Slate Stainless Steel Bezel with Black Case and Silicone Band",
+      "category": "smartwatches",
+      "product_title": "Venu® 3",
+      "name": "Venu® 3 Series",
+      "text": "You’ve got health and fitness goals and want an on-wrist coach to support you. This GPS smartwatch that can make calls and send texts when connected to your smartphone is the one.",
+      "image": "venus3.webp",
+      "price": 449.99,
+      "status": "Customizable",
+      "folder_name": "venu3",
+      "carousel_images": [
+        "venu3.webp",
+        "venu3-1.webp",
+        "venu3-2.webp",
+        "venu3-3.webp",
+        "venu3-4.webp",
+        "venu3-5.webp",
+        "venu3-6.webp",
+        "venu3-7.webp"
+      ],
+      "banner_text": {
+        "title": "",
+        "text": "Built for how you move, Venu 3 can track pushes and offers built-in workouts designed for wheelchair users",
+        "banner_images": {
+          "main_banner": "bannerwithtext-venu3.webp",
+          "alt": "bannerwithtext-forerunner55",
+          "adaptive_banner": "bannerwithtext-venu3-adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannerforvideo-venu3.webp",
+        "video_url": "https://www.youtube.com/embed/ruqNHHwLdK0?si=rHDiuXHf_O1smK_7"
+      },
+      "additional_images": {
+        "main_image": "banner-venu3.webp",
+        "adaptive_image": "banner-venu3adaptive.webp"
+      },
+      "watch_features": [
+        {
+          "image": "BODY BATTERY™ ENERGY MONITORING.webp",
+          "title": "BODY BATTERY™ ENERGY MONITORING",
+          "description": "See your energy levels throughout the day so you’ll know when your body is charged up and ready for activity or drained and needing to recharge with restful sleep. And get even more details and personal insights on how sleep, naps, daily activities and high stress specifically impact your energy2."
+        },
+        {
+          "image": "SLEEP COACH.webp",
+          "title": "SLEEP COACH",
+          "description": "Get a sleep score and personalized coaching for how much sleep you need and how you can improve. Even keep track of different sleep stages and naps — and see several key metrics over your sleep period, such as HRV status and skin temperature to better understand your health3."
+        },
+        {
+          "image": "BUILT-IN SPORTS APPS.webp",
+          "title": "BUILT-IN SPORTS APPS",
+          "description": "Track all the ways you move with more than 30 preloaded GPS and indoor sports apps — including walking, running, cycling, pool swimming, activities for wheelchair users and more."
+        },
+        {
+          "image": "BUILT-IN SPEAKER AND MICROPHONE.webp",
+          "title": "BUILT-IN SPEAKER AND MICROPHONE",
+          "description": "When paired with your compatible smartphone, make and take phone calls right from the watch. Plus, use your smartphone’s voice assistant to respond to text messages and more."
+        },
+        {
+          "image": "WORKOUT BENEFIT AND RECOVERY TIME.webp",
+          "title": "WORKOUT BENEFIT AND RECOVERY TIME",
+          "description": "Better understand how each workout affects your body and how much time you need to recover so you can take on any fitness challenge."
+        },
+        {
+          "image": "GARMIN ECG APP.webp",
+          "title": "GARMIN ECG APP",
+          "description": "The ECG app2 uses sensors to record the electrical signals that control how your heart beats. It analyzes that recording to detect signs of an irregular heart rhythm called atrial fibrillation (AFib)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "color": "Premium Tactical GPS Watch with Silicone Band",
+      "category": "smartwatches",
+      "product_title": "tactix® 7 – Standard Edition",
+      "name": "tactix® 7 Series",
+      "text": "You want to be field-ready. You want specialized GPS smartwatches with tactical features, built-in flashlights, routable TOPO mapping and more.",
+      "image": "tartix.webp",
+      "price": 1099.99,
+      "folder_name": "tactix7",
+      "carousel_images": [
+        "tactix7.webp",
+        "tactix7-1.webp",
+        "tactix7-2.webp",
+        "tactix7-3.webp",
+        "tactix7-4.webp",
+        "tactix7-5.webp",
+        "tactix7-6.webp",
+        "tactix7-7.webp",
+        "tactix7-8.webp"
+      ],
+      "banner_text": {
+        "title": "",
+        "text": "Features for every kind of adventure.",
+        "banner_images": {
+          "main_banner": "banner2-tectix7.webp",
+          "alt": "bannerwithtext-forerunner55",
+          "adaptive_banner": "banner2-tectix7adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannerforvideo-tectix7.webp",
+        "video_url": "https://www.youtube.com/embed/ruqNHHwLdK0?si=rHDiuXHf_O1smK_7"
+      },
+      "additional_images": {
+        "main_image": "banner-tectix7.webp",
+        "adaptive_image": "banner-tectix7adaptive.webp"
+      },
+      "watch_features": [
+        {
+          "image": "BUILT-IN GREEN OR WHITE FLASHLIGHT.webp",
+          "title": "BUILT-IN GREEN OR WHITE FLASHLIGHT",
+          "description": "To help guide your way in low-light conditions, a built-in multi-LED flashlight provides quick access to a bright, steady beam in either green or white light."
+        },
+        {
+          "image": "NIGHT VISION CAPABILITY.webp",
+          "title": "NIGHT VISION CAPABILITY",
+          "description": "Easily switch between daytime view and nighttime view with a screen that can be read by night vision goggles."
+        },
+        {
+          "image": "STEALTH MODE.webp",
+          "title": "STEALTH MODE",
+          "description": "While keeping the watch operational, stealth mode stops storing and sharing your GPS position and disables wireless connectivity and communication."
+        },
+        {
+          "image": "KILL SWITCH.webp",
+          "title": "KILL SWITCH",
+          "description": "If security becomes an issue, the kill switch wipes the device of all user memory."
+        },
+        {
+          "image": "JUMPMASTER MODE.webp",
+          "title": "JUMPMASTER MODE",
+          "description": "This feature works to calculate high-altitude release points according to military guidelines and helps to navigate you to your objective once you’ve jumped."
+        },
+        {
+          "image": "HUNT ACTIVITY.webp",
+          "title": "HUNT ACTIVITY",
+          "description": "Track your hunt, and mark hunt-specific waypoints directly on your watch."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "color": "Carbon Gray DLC Titanium with Black Band",
+      "category": "smartwatches",
+      "product_title": "epix™ Pro (Gen 2) – Sapphire Edition | 47 mm",
+      "name": "epix™ Series",
+      "text": "You’re an athlete who refuses to compromise. Wherever you’re going, only the best will do. Get the ultimate high-performance smartwatch with a stunning AMOLED display, optional built-in LED flashlight, advanced training metrics and more.",
+      "image": "epix.webp",
+      "price": 999.99,
+      "status": "Customizable",
+      "folder_name": "epix",
+      "carousel_images": [
+        "epixProGen2.webp",
+        "epixProGen2-1.webp",
+        "epixProGen2-2.webp",
+        "epixProGen2-3.webp",
+        "epixProGen2-4.webp",
+        "epixProGen2-5.webp",
+        "epixProGen2-6.webp",
+        "epixProGen2-7.webp",
+        "epixProGen2-8.webp"
+      ],
+      "banner_text": {
+        "title": "EPIX PRO.",
+        "text": "WITH AMOLED DISPLAY.",
+        "banner_images": {
+          "main_banner": "bannerwithtext-epixprogen2adaptive.webp",
+          "alt": "bannerwithtext-epixprogen2",
+          "adaptive_banner": "bannerwithtext-epixprogen2.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannervideo-epixprogen2.webp",
+        "video_url": "https://www.youtube.com/embed/IcMbHxzlnXM?si=6X_UB3SUCo03_OIj"
+      },
+      "additional_images": {
+        "main_image": "banner-epixprogen2.jpg",
+        "adaptive_image": "banner-epixprogen2adaptive.jpg"
+      },
+      "watch_features": [
+        {
+          "image": "LONG BATTERY LIFE.webp",
+          "title": "LONG BATTERY LIFE",
+          "description": "Get up to 16 days in smartwatch mode or up to 30 hours in GPS mode."
+        },
+        {
+          "image": "BUILT-IN LED FLASHLIGHT.webp",
+          "title": "BUILT-IN LED FLASHLIGHT",
+          "description": "Variable light intensities and a red safety light give you greater awareness while you train in the dark and can provide convenient illumination when you need it. Strobe mode can even match your running cadence."
+        },
+        {
+          "image": "HILL SCORE.webp",
+          "title": "HILL SCORE",
+          "description": "This feature measures your capability for running uphill and evaluates your progress over time based on your VO2 max and training history. It measures your running strength on steep ascents and running endurance on long ascents and provides a score based on your performance over time."
+        },
+        {
+          "image": "ENDURANCE SCORE.webp",
+          "title": "ENDURANCE SCORE",
+          "description": "This feature measures your ability to sustain prolonged efforts and combines training data from all your athletic pursuits to help you understand how training impacts your overall endurance. This dynamic measurement uses your VO2 max, short-term/long-term training loads and other factors to gauge your fitness progress beyond just VO2 max."
+        },
+        {
+          "image": "RUGGED BY DESIGN.webp",
+          "title": "RUGGED BY DESIGN",
+          "description": "The resilient athletic design features a bright 1.3” scratch-resistant sapphire AMOLED display, responsive touchscreen, traditional buttons and 47 mm fiber-reinforced polymer case with a titanium bezel and rear cover. The watch is tested to U.S. military standards for thermal, shock and water resistance."
+        },
+        {
+          "image": "KNOWLEDGE IS POWER.webp",
+          "title": "KNOWLEDGE IS POWER",
+          "description": "Your health and training data should be easy to interpret and provide actionable insight. Begin each day with a customizable morning report, and see a daily summary of health and wellness information. Use the training readiness feature — which looks at a variety of different health metrics to help you maximize your training efficiency and recovery1 — to prevent burnout."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "color": "Sapphire, Titanium with Spark Orange/Graphite Silicone Band",
+      "category": "smartwatches",
+      "product_title": "fēnix® 8 - 51 mm, AMOLED",
+      "name": "fēnix® 8 Series",
+      "text": "You’re an athlete or adventurer looking to push beyond limits with a smartwatch offering advanced strength training, sports apps, 24/7 health monitoring, dynamic round-trip routing and more.",
+      "image": "fenix8yellow.webp",
+      "price": 799.99,
+      "status": "NEW",
+      "folder_name": "fenix8",
+      "carousel_images": [
+        "fenix8-.webp",
+        "fenix8-1.webp",
+        "fenix8-2.webp",
+        "fenix8-3.webp",
+        "fenix8-4.webp",
+        "fenix8-5.webp",
+        "fenix8-6.webp",
+        "fenix8-7.webp",
+        "fenix8-8.webp"
+      ],
+      "banner_text": {
+        "title": "BE LIMITLESS",
+        "text": "FĒNIX 8",
+        "banner_images": {
+          "main_banner": "bannerwithtext-fenix8.jpg",
+          "alt": "bannerwithtext-fenix8",
+          "adaptive_banner": "bannerwithtext-fenix8adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannervideo-fenix8.webp",
+        "video_url": "https://www.youtube.com/embed/a9h0bza5HZs?si=M2jgB2ddHK02JUtA"
+      },
+      "additional_images": {
+        "main_image": "banner-fenix8.webp",
+        "adaptive_image": "bannervideo-fenix8adaptive.webp"
+      },
+      "watch_features": [
+        {
+          "image": "RUGGED BY DESIGN.webp",
+          "title": "RUGGED BY DESIGN",
+          "description": "Built to endure, this premium design is dive-rated and features leakproof buttons, a metal sensor guard cover and bright 1.4” AMOLED display with options for a scratch-resistant lens and titanium bezel. It’s tested to U.S. military standards for thermal, shock and water resistance."
+        },
+        {
+          "image": "BUILT-IN SPEAKER AND MICROPHONE.webp",
+          "title": "BUILT-IN SPEAKER AND MICROPHONE",
+          "description": "Make and take phone calls from your watch when it’s paired to your smartphone. Plus, control watch functions with off-grid voice commands — or use your smartphone’s voice assistant to respond to text messages and more."
+        },
+        {
+          "image": "BUILT-IN LED FLASHLIGHT.webp",
+          "title": "BUILT-IN LED FLASHLIGHT",
+          "description": "A true integrated flashlight with variable light intensities and a red safety light gives you greater awareness in the dark, providing convenient illumination when you need it. Strobe mode can even match your running cadence."
+        },
+        {
+          "image": "ADVANCED STRENGTH TRAINING.webp",
+          "title": "ADVANCED STRENGTH TRAINING",
+          "description": "Elevate your body’s performance with targeted strength training plans and sport-specific workouts for athletes of all types."
+        },
+        {
+          "image": "KNOWLEDGE IS POWER.webp",
+          "title": "KNOWLEDGE IS POWER",
+          "description": "Begin each day with a customizable morning report offering a summary of health and wellness information. Use the training readiness feature, which looks at a variety of health metrics, to maximize your training efficiency and recovery2 — to help prevent burnout."
+        },
+        {
+          "image": "ENHANCED MAP NAVIGATION.webp",
+          "title": "ENHANCED MAP NAVIGATION",
+          "description": "A dynamic round-trip routing feature lets you enter how far you want to go — and get suggested routes that will guide you back on time. You can also view terrain contours on TopoActive maps3 and access preloaded maps for golf courses and ski resorts around the world."
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "color": "Metallic Lilac with Lilac Silicone Band",
+      "category": "smartwatches",
+      "product_title": "Lily® 2",
+      "name": "Lily® 2 Series",
+      "text": "You’re trendy, health-focused and connected to your world. These small, stylish smartwatches are too. Meet your new favorite accessory.",
+      "image": "Lily® 2 Series.webp",
+      "price": 249.99,
+      "status": "Customizable",
+      "folder_name": "lily2",
+      "carousel_images": [
+        "lily2.webp",
+        "lily2-1.webp",
+        "lily2-2.webp",
+        "lily2-3.webp",
+        "lily2-4.webp",
+        "lily2-5.webp",
+        "lily2-6.webp",
+        "lily2-7.webp"
+      ],
+      "banner_text": {
+        "title": "LILY® 2",
+        "text": "The small, stylish smartwatch",
+        "banner_images": {
+          "main_banner": "bannerwithtext-lily2.webp",
+          "alt": "bannerwithtext-lily2",
+          "adaptive_banner": "bannerwithtext-lily2-adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannervideo-lily2.webp",
+        "video_url": "https://www.youtube.com/embed/2MP-bYAzxck?si=R0tiLf7djAow5DUQ"
+      },
+      "additional_images": {
+        "main_image": "banner-lily2.webp",
+        "adaptive_image": "banner-lily2-adaprive.jpg"
+      },
+      "watch_features": [
+        {
+          "image": "SMALL, STYLISH DESIGN.webp",
+          "title": "SMALL, STYLISH DESIGN",
+          "description": "Perfect for any look, this small, stylish smartwatch features a metal watch case and a beautiful patterned lens. Plus, with a quick tap or wrist turn, the Lily 2 smartwatch reveals a bright display. Choose between a variety of 14 mm quick release band options, including silicone, nylon or Italian leather. Or mix and match cases and bands to make Lily all your own."
+        },
+        {
+          "image": "BODY BATTERY™ ENERGY MONITORING.webp",
+          "title": "BODY BATTERY™ ENERGY MONITORING",
+          "description": "See your energy levels throughout the day so you’ll know when your body is charged up and ready for activity or drained and needing to recharge with restful sleep."
+        },
+        {
+          "image": "SLEEP SCORE.webp",
+          "title": "SLEEP SCORE",
+          "description": "Get a score for your sleep’s quality and insights on how you can do better. Even keep track of the different sleep stages as well as heart rate1, stress, Pulse Ox2 and respiration."
+        },
+        {
+          "image": "FITNESS TRACKING AND SPORTS APPS.webp",
+          "title": "FITNESS TRACKING AND SPORTS APPS",
+          "description": "While you’re out and about, Lily 2 tracks steps, calories burned, intensity minutes and more1. Switch up your workout with built-in sports apps for cardio, yoga, dance fitness, strength training and more."
+        },
+        {
+          "image": "GARMIN PAY™ CONTACTLESS PAYMENTS.webp",
+          "title": "GARMIN PAY™ CONTACTLESS PAYMENTS",
+          "description": "Breeze through checkout lines and select transit systems with Garmin Pay contactless payment solution through participating providers (available only on Lily 2 Classic smartwatches)."
+        },
+        {
+          "image": "CONNECTED GPS.webp",
+          "title": "CONNECTED GPS",
+          "description": "Connect to your compatible smartphone’s GPS so you can get accurate tracking during outdoor walks, rides and runs."
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "color": "Modern Tool Watch",
+      "category": "smartwatches",
+      "product_title": "MARQ® Golfer (Gen 2)",
+      "name": "MARQ® Golfer (Gen 2)",
+      "text": "You want to stay on top of your game on and off the green. You need a luxury modern tool watch built from Grade-5 titanium with an AMOLED display, virtual caddie and more.",
+      "image": "MARQ® Golfer (Gen 2).webp",
+      "price": 2300.0,
+      "status": "NEW",
+      "folder_name": "marqfolfergen2",
+      "carousel_images": [
+        "marq.webp",
+        "marq-1.webp",
+        "marq-2.webp",
+        "marq-3.webp",
+        "marq-4.webp",
+        "marq-5.webp",
+        "marq-6.webp",
+        "marq-7.webp",
+        "marq-8.webp"
+      ],
+      "banner_text": {
+        "title": "MARQ GOLFER",
+        "text": "THE QUEST FOR EXCELLENCE HAS HIT A NEW LEVEL",
+        "banner_images": {
+          "main_banner": "bannerwithtext-marq.webp",
+          "alt": "bannerwithtext-marq",
+          "adaptive_banner": "bannerwithtext-marq-adaptive.webp"
+        }
+      },
+      "video_section": {
+        "thumbnail": "bannervideo-marq.webp",
+        "video_url": "https://www.youtube.com/embed/PjwvKvS-y_s?si=EPCqev6uQjjafH3F"
+      },
+      "additional_images": {
+        "main_image": "",
+        "adaptive_image": ""
+      },
+      "watch_features": [
+        {
+          "image": "VIRTUAL CADDIE.webp",
+          "title": "VIRTUAL CADDIE",
+          "description": "Get caddie help right on your wrist when paired with a compatible smartphone. The virtual caddie feature factors in wind speed and direction and suggests a club based on the distance you typically swing with that particular club."
+        },
+        {
+          "image": "WIND SPEED AND DIRECTION.webp",
+          "title": "WIND SPEED AND DIRECTION",
+          "description": "The watch displays wind speed and direction, which makes figuring out which club to use and which direction to swing much easier."
+        },
+        {
+          "image": "43,000+ PRELOADED COURSES.webp",
+          "title": "43,000+ PRELOADED COURSES",
+          "description": "Your watch comes preloaded with more than 43,000 full-color CourseView maps of golf courses from around the world. Download updates for the course you play most often."
+        },
+        {
+          "image": "CLUB TRACKING.webp",
+          "title": "CLUB TRACKING",
+          "description": "Pair your watch with the included Approach® CT10 club tracking sensors for more advanced tracking capabilities, including locations, distances and club type."
+        },
+        {
+          "image": "PLAYSLIKE DISTANCE.webp",
+          "title": "PLAYSLIKE DISTANCE",
+          "description": "The PlaysLike Distance feature adjusts yardages to account for uphill and downhill shots."
+        },
+        {
+          "image": "ANIMATED WORKOUTS.webp",
+          "title": "ANIMATED WORKOUTS",
+          "description": "This watch features easy-to-follow, animated cardio, strength, yoga and Pilates workouts you can view on the watch screen. Choose from preloaded animated workouts, or download more from the Garmin Connect online community when paired with your compatible device."
+        }
+      ]
+    }
+  ]
+}
